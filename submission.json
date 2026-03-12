@@ -2,5 +2,6 @@
   "prompt": "A breathtaking, award-winning National Geographic photograph of a vast, rocky, uneven mountainous landscape blanketed in incredibly dense, blinding white fog. In the foreground, a lone hiker stands at the bottom of a small, shallow rocky crater (a local depression), probing the upward-sloping ground around them with a walking stick, looking confused. Just a few feet away, hidden slightly in the thick fog, the ground suddenly drops off into a massive, unimaginably deep, sweeping canyon. The image creates dramatic irony: the hiker thinks they have found the lowest point because they are in a small ditch, unaware of the massive, true valley right next to them. Ultra-realistic, cinematic lighting, entirely physical scene, no text, no diagrams, no glowing UI.",
   "model": "DALL·E 3",
   "concept": "Gradient Descent",
-  "metaphor": "A fog-bound hiker trapped in a shallow crater perfectly maps to a local minimum, while the unseen, vastly deeper canyon nearby embodies the true global minimum they missed."
+  "metaphor": "A fog-bound hiker trapped in a shallow crater perfectly maps to a local minimum, while the unseen, vastly deeper canyon nearby embodies the true global minimum they missed.",
+  "publish_email": true
 }
